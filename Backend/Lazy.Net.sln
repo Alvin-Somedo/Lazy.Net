@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazy.Net.WebApi", "Lazy.Net.WebApi\Lazy.Net.WebApi.csproj", "{6ECEE7F4-C057-4511-B595-71AF41827F80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazy.Net.Extension", "Lazy.Net.Extension\Lazy.Net.Extension.csproj", "{6FA3FFDA-CF81-4786-A3D5-3805CE09827A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ECEE7F4-C057-4511-B595-71AF41827F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECEE7F4-C057-4511-B595-71AF41827F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECEE7F4-C057-4511-B595-71AF41827F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECEE7F4-C057-4511-B595-71AF41827F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA3FFDA-CF81-4786-A3D5-3805CE09827A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA3FFDA-CF81-4786-A3D5-3805CE09827A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA3FFDA-CF81-4786-A3D5-3805CE09827A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA3FFDA-CF81-4786-A3D5-3805CE09827A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D5EB2D-69D4-403D-9EAB-1EE58B677DF5}
+	EndGlobalSection
+EndGlobal
